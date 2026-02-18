@@ -1,2 +1,23 @@
-# Diwali-Sales-PowerBI-Dashboard
-# Diwali Sales Power BI Dashboard  ## Description Built an interactive Power BI dashboard analyzing Diwali sales trends, customer demographics, and revenue insights.  ## Tools Used Power BI, Data Visualization  ## Author Dharun P
+Overview
+
+Developed an interactive Power BI dashboard analyzing Diwali sales trends, customer behavior, and revenue insights to support business decision-making.
+
+Technologies Used
+
+Power BI
+
+Excel
+
+Data Visualization
+
+Features
+
+Interactive dashboard visualizations
+
+KPI and revenue analysis
+
+Sales trend insights
+
+Author
+
+Dharun P
